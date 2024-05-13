@@ -1,0 +1,56 @@
+Database name: Library
+table name: Book
+attributes:
+id
+title
+author 
+ISBN
+genre
+publisher
+publication_year
+No Of Copies
+
+ex:
+Here are five examples of book details for a library management system:
+
+1. Title: "To Kill a Mockingbird"
+   Author: Harper Lee
+   ISBN: 9780061120084
+   Genre: Fiction
+   Publisher: Harper Perennial Modern Classics
+   Publication Year: 1960
+   Number of Copies: 10
+
+2. Title: "The Great Gatsby"
+   Author: F. Scott Fitzgerald
+   ISBN: 9780743273565
+   Genre: Fiction
+   Publisher: Scribner
+   Publication Year: 1925
+   Number of Copies: 8
+
+3. Title: "Harry Potter and the Philosopher's Stone"
+   Author: J.K. Rowling
+   ISBN: 9781408855652
+   Genre: Fantasy
+   Publisher: Bloomsbury Publishing
+   Publication Year: 1997
+   Number of Copies: 15
+
+4. Title: "The Da Vinci Code"
+   Author: Dan Brown
+   ISBN: 9780307474278
+   Genre: Mystery, Thriller
+   Publisher: Anchor
+   Publication Year: 2003
+   Number of Copies: 12
+
+5. Title: "1984"
+   Author: George Orwell
+   ISBN: 9780451524935
+   Genre: Science Fiction, Dystopian
+   Publisher: Signet Classic
+   Publication Year: 1949
+   Number of Copies: 6
+
+These examples provide a snapshot of the kind of information typically associated with each book in a library catalog.
